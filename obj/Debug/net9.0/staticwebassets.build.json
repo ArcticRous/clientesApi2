@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rWvuVZwADKGkdCbZ4rev7QHLcLca7WM6fRHql1uHrUU=",
+  "Source": "ClienteApi2",
+  "BasePath": "_content/ClienteApi2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
